@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ***Khush*** here,
 
-**Khush** here,
-
-- 🔭 Currently working with JavaScript and Python
-- 🌱 Learning Pentesting and OSINT these days
-- 🤜🏼 Active on Hackerone and Bugcrowd
+- 🔭 I am Currently working with JavaScript and Python
+- 🌱 Also Learning Pentesting and OSINT these days
+- 🤜🏼 Much Active on Hackerone and Bugcrowd
 - 💬 Ask me about RCE and SQLi 😅
 - 📫 How to reach me: https://www.twitter.com/khush_mnvr 
 
