@@ -10,5 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushmanvar&lang_count=2&exclude_repo=first-order-model,MemeProject&hide=jupyter%20notebook&layout=compact)](https://github.com/khushmanvar/github-readme-stats)
 
-
-
+![Visitor Count](https://profile-counter.glitch.me/khushmanvar/count.svg)
