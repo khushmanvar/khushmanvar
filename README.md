@@ -1,6 +1,6 @@
 ### Hi there 👋 ***Khush*** here,
 
-- 🔭  I am Currently working with JavaScript and Python
+- 🔭  I am currently working with JavaScript and Python
 - 🌱  Also Learning Pentesting and OSINT these days
 - 🤜🏼  Much Active on Hackerone and Bugcrowd
 - 💬  Ask me about RCE and SQLi 😅
