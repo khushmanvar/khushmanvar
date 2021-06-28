@@ -8,6 +8,13 @@
 
 [![Khush's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushmanvar&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/khushmanvar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushmanvar&lang_count=2&exclude_repo=first-order-model,MemeProject&hide=jupyter%20notebook&layout=compact)](https://github.com/khushmanvar/github-readme-stats)
-
+## Vistor Count
 ![Visitor Count](https://profile-counter.glitch.me/khushmanvar/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanBacon&&hide=jupyter%20notebook,lua,swift,objective-c&layout=compact)](https://github.com/khushmanvar/github-readme-stats)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=khushmanvar&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## Current Sparkline
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
