@@ -11,6 +11,8 @@
 ## Vistor Count
 ![Visitor Count](https://profile-counter.glitch.me/khushmanvar/count.svg)
 
+## Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushmanvar&layout=compact)](https://github.com/khushmanvar/github-readme-stats)
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=khushmanvar&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
