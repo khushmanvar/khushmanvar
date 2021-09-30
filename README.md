@@ -9,7 +9,7 @@
 [![Khush's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushmanvar&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/khushmanvar/github-readme-stats)
 
 ## Vistor Count
-![Visitor Count](https://profile-counter.glitch.me/khushmanvar/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=khushmanvar)
 
 ## Languages
 
